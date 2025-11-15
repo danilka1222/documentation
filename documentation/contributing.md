@@ -11,7 +11,7 @@ There are different ways to contribute to Dialogic. You could be a developer, a 
 - [Reporting bugs](#reporting-bugs)
 - [Creating pull requests](#creating-pull-requests)
 - [Answering questions](#answering-questions)
-- [Donating](#donate)
+- [Donating](#donating)
 
 
 ### Reporting bugs
